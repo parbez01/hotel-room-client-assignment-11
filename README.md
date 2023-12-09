@@ -1,10 +1,9 @@
-# Five Feature of this Projects
-* There will be a navbar.Here some are private route and some are public.
-* In room page there are 6 room total.When user click any room they see the details of this room.
-* User want to book room,they can do will the based on date.
-* If user want to cancel this book,he or she can do this.
-* If user want to update date,also can do this.
-* if user no logged in,they can't book any room.
+# Project details
+* Our first section will have several routes Home, Room, My Booking Contacts,about etc.And if the user is logged in My Booking Stout Private Route then they will not be able to login or they will be directed to the login page.
+* And we have many more sections on homepage one of which is to add slider and show our location nearest location to our hotel.We have a section on hotel special offers.There is a section on what services we provide and a footer section.
+* when we click on room round six types of rooms will show with their rating and name.Then it will show the details of the room we click on and date wise we will get a button called book now button.
+* Whatever we book will be added to My bookings route.From booking router if we want we can cancel booking it and update the date and if we delete or update it will be deleted from database.
+* Contact us and About Aslam we have two more sections where you can find our information
 
 
 Live Link: http://elated-zoo.surge.sh/
